@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,F as o,b as e}from"./index-1fc77266.js";const t={},_=e("h1",{class:"heading-1"},"Typography",-1),c=e("h1",{class:"heading-1"},"Heading 1",-1),d=e("h2",{class:"heading-2"},"Heading 2",-1),r=e("h3",{class:"heading-3"},"Heading 3",-1);function h(i,p,g,l,y,u){return a(),n(o,null,[_,c,d,r],64)}const m=s(t,[["render",h]]);export{m as default};
